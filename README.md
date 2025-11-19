@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mim
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, sempre buscando evoluir minhas habilidades através de projetos práticos e estudos constantes.
+Atualmente sou Formado em Análise e Desenvolvimento de Sistemas, sempre buscando evoluir minhas habilidades através de projetos práticos e estudos constantes.
 
 - 🎯 Focado em: **C#**, **.NET**, **APIs REST**, **Java**, **Spring**, **SQL**  
 - 🔥 Busco melhorar cada vez mais minhas práticas de arquitetura e clean code  
@@ -52,8 +52,4 @@ Aplicação com regras de negócio, DTOs, repository pattern e mais.
 
 ## 🌎 Onde me encontrar
 📌 [LinkedIn](https://www.linkedin.com/in/lucasdev46)  
-📌 [Instagram](https://www.instagram.com/) *(caso queira colocar)*
 
----
-
-⭐ *Obrigado por visitar meu perfil!*

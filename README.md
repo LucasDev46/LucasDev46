@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Lucas Martins</h1>
 
-<!--
-**LucasDev46/LucasDev46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, APIs e boas práticas.  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, sempre buscando evoluir minhas habilidades através de projetos práticos e estudos constantes.
+
+- 🎯 Focado em: **C#**, **.NET**, **APIs REST**, **Java**, **Spring**, **SQL**  
+- 🔥 Busco melhorar cada vez mais minhas práticas de arquitetura e clean code  
+- 📚 Sempre estudando novas tecnologias e construindo projetos reais  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,html,css" />
+</p>
+
+### 🚀 Frameworks & Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,postgres,git,github,vscode,visualstudio" />
+</p>
+
+---
+
+## 📈 Minhas estatísticas do GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LucasDev46&show_icons=true&theme=github_dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev46&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🗂️ Projetos em Destaque
+
+### 🏫 **API Escola**
+API Rest em .NET com validações, notificações e boas práticas.
+🔗 *Link para o repositório*  
+
+### 🛒 API Vendas
+Aplicação com regras de negócio, DTOs, repository pattern e mais.
+🔗 *Link para o repositório*  
+
+---
+
+## 🌎 Onde me encontrar
+📌 [LinkedIn](https://www.linkedin.com/in/lucasdev46)  
+📌 [Instagram](https://www.instagram.com/) *(caso queira colocar)*
+
+---
+
+⭐ *Obrigado por visitar meu perfil!*

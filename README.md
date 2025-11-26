@@ -29,15 +29,6 @@ Atualmente sou Formado em Análise e Desenvolvimento de Sistemas, sempre buscand
 
 ---
 
-## 📈 Minhas estatísticas do GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LucasDev46&show_icons=true&theme=github_dark" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev46&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 🗂️ Projetos em Destaque
 
 ### 🏫 **API Escola**

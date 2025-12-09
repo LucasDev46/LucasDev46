@@ -35,9 +35,9 @@ Atualmente sou Formado em Análise e Desenvolvimento de Sistemas, sempre buscand
 API Rest em .NET com validações, notificações e boas práticas.
 🔗 *https://github.com/LucasDev46/APIEscola*  
 
-### 🛒 API Vendas
+### 🛒 API Completa
 Aplicação com regras de negócio, DTOs, repository pattern e mais.
-🔗 *https://github.com/LucasDev46/ApiVendas*  
+🔗 *https://github.com/LucasDev46/ApiCompleta*  
 
 ---
 
